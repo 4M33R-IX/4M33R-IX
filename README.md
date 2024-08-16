@@ -10,7 +10,7 @@ My current project is creating a multi-hack not just for CS2 but for other games
 - **Cheat Engine** - Less pain in the a$$.
 - **ReClass** - Makes it easy to find entity list.
 - **x64dbg** - IDK why i have it.
-- **Ghidra** - BECAUSE I'M NOT PAYING 2000$ FOR IDA PRO.
+- **Ghidra** - BECAUSE IDA PRO IS 2000$.
 
 ### ⚙️ Languages I Use
 - **C++** 🔵 - My main language for coding cheats.
